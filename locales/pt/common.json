@@ -1,0 +1,79 @@
+{
+  "brand": "DABANGO",
+  "tagline": "Esporte para Crianças e Adolescentes",
+  "nav": {
+    "home": "Início",
+    "shop": "Loja",
+    "kids": "Infantil",
+    "teens": "Juvenil",
+    "brands": "Marcas",
+    "sports": "Esportes",
+    "sale": "Promoções",
+    "account": "Minha Conta",
+    "cart": "Carrinho",
+    "wishlist": "Favoritos"
+  },
+  "auth": {
+    "login": "Entrar",
+    "register": "Cadastrar",
+    "logout": "Sair",
+    "email": "E-mail",
+    "password": "Senha",
+    "confirmPassword": "Confirmar Senha",
+    "forgotPassword": "Esqueci minha senha",
+    "name": "Nome Completo",
+    "phone": "Telefone",
+    "cpf": "CPF"
+  },
+  "search": {
+    "placeholder": "Buscar produtos...",
+    "button": "Buscar",
+    "noResults": "Nenhum resultado encontrado"
+  },
+  "filters": {
+    "title": "Filtros",
+    "clear": "Limpar",
+    "apply": "Aplicar",
+    "brand": "Marca",
+    "category": "Categoria",
+    "size": "Tamanho",
+    "color": "Cor",
+    "price": "Preço",
+    "ageGroup": "Faixa Etária",
+    "sport": "Esporte"
+  },
+  "product": {
+    "addToCart": "Adicionar ao Carrinho",
+    "addToWishlist": "Adicionar aos Favoritos",
+    "inStock": "Em estoque",
+    "outOfStock": "Fora de estoque",
+    "size": "Tamanho",
+    "color": "Cor",
+    "quantity": "Quantidade",
+    "description": "Descrição",
+    "specifications": "Especificações",
+    "reviews": "Avaliações",
+    "sizeGuide": "Guia de Tamanhos"
+  },
+  "cart": {
+    "title": "Meu Carrinho",
+    "empty": "Seu carrinho está vazio",
+    "continueShopping": "Continuar Comprando",
+    "subtotal": "Subtotal",
+    "shipping": "Frete",
+    "discount": "Desconto",
+    "total": "Total",
+    "checkout": "Finalizar Compra",
+    "remove": "Remover"
+  },
+  "currency": "R$",
+  "footer": {
+    "about": "Sobre Nós",
+    "contact": "Contato",
+    "help": "Ajuda",
+    "terms": "Termos de Uso",
+    "privacy": "Política de Privacidade",
+    "shipping": "Envio e Entrega",
+    "returns": "Trocas e Devoluções"
+  }
+}
